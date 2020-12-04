@@ -6,6 +6,13 @@ My name is Aryan. I am a 13 year old programming enthusiast. I started programmi
 ## What languages do I code in?
 I am currently learning Python (Django module), Other than Python I have learnt Java and C++ too.. Since I aim to be a Full Stack web developer, In the future I may learn CSS and JavaScript.
 
+1. C++ (I use C++ mainly for GUI dev)
+2. Java (I use Java for Android Development and Full stack Development)
+3. Python (I use Python for Back-end. I mainly use the Django module)
+4. HTML
+5. CSS
+6. JavaScript (I use this for web development and cross-platform app development)
+
 ## Projects:
 In my opinion there are no "big projects" and "small projects"..
 
