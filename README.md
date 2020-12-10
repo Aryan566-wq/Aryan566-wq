@@ -16,5 +16,5 @@ My name is Aryan. I am a 13 year old programming enthusiast. I started programmi
 In my opinion there are no "big projects" and "small projects"..
 
 ## Social:
-I am very active on Discord, so you can HMU there! My ID: 👑 Aryan_10 👑#6029 ...
+I am very active on Discord, so you can HMU there! My ID: Eminem#6029 ...
 
