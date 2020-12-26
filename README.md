@@ -18,3 +18,5 @@ In my opinion there are no "big projects" and "small projects"..
 ## Social:
 I am very active on Discord, so you can HMU there! My ID: Eminem#6029 ...
 
+## My GitHub stats!
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryan566-wq)](https://github.com/anuraghazra/github-readme-stats)
