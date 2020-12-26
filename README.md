@@ -20,3 +20,5 @@ I am very active on Discord, so you can HMU there! My ID: Eminem#6029 ...
 
 ## My GitHub stats!
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryan566-wq&show_icons=true&theme=great-gatsby)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan566-wq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
