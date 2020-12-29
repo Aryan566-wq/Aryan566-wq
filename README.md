@@ -1,7 +1,7 @@
 ## Hey! Welcome to my GitHub profile! 😀
 
 ## About me!
-My name is Aryan. I am a 13 year old programming enthusiast. I started programming at the age of 12. I aim to be Full Stack Web developer.
+My name is Aryan. I am a 13 year old programming enthusiast. I started programming at the age of 12. I aim to be a Full Stack Web developer.
 
 ## What languages do I code in?
 
