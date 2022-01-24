@@ -5,10 +5,18 @@ My name is Aryan. I'm a 14 year old programming enthusiast, I started programmin
 
 ## What languages do I code in?
 
-1. Python (Django)
+1. Python
 2. HTML 
 3. CSS 
-4. JavaScript (Learning at the moment!)
+4. JavaScript
+
+## Extra Techonlogies I have/target to learn:
+1. MongoDB (Learned, still making projects and perfecting!)
+2. Express (Learned, still making projects and perfecting!)
+3. React (Aspiring to learn React!)
+4. Node.js (Learned, still making projects and perfecting!)
+5. Next.js (Aspiring to learn)
+6. Django
 
 ## Social:
 My Discord ID: MonkeydLuffy#6029
