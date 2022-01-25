@@ -10,7 +10,7 @@ My name is Aryan. I'm a 14 year old programming enthusiast, I started programmin
 3. CSS 
 4. JavaScript
 
-## Extra Techonlogies I have/target to learn:
+## Extra Technlogies I have/target to learn:
 1. MongoDB (Learned, still making projects and perfecting!)
 2. Express (Learned, still making projects and perfecting!)
 3. React (Aspiring to learn React!)
