@@ -1,4 +1,4 @@
-### Hey there! Welcome to my GitHub profile! 👋
+# Hey there! Welcome to my GitHub profile! 👋
 
 ## About me! 😎
 My name is Aryan. I'm a 14 year old programming enthusiast, I started programming at the age of 12. I aim to be a Full Stack Web developer!
