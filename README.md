@@ -22,4 +22,4 @@ My name is Aryan. I'm a 14 year old programming enthusiast, I started programmin
 My Discord: discordapp.com/users/724573679710765166
 
 ## My GitHub stats! 💯
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryan566-wq&show_icons=true&theme=great-gatsby)
