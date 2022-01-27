@@ -23,3 +23,6 @@ My Discord: [https://discordapp.com/users/724573679710765166](MonkeyDLuffy#6029)
 
 ## My GitHub stats! 💯
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryan566-wq&show_icons=true&theme=great-gatsby)
+
+## Codewars!
+https://www.codewars.com/users/Aryan566-wq/badges/large
