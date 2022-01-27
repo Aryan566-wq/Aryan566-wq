@@ -19,9 +19,9 @@ My name is Aryan. I'm a 14 year old programming enthusiast, I started programmin
 6. Django (Learned and going deeper!)
 
 ## Social 😀
-### [discord](https://discordapp.com/users/724573679710765166)
-### [instagram](https://instagram.com/users/aryan.d.10)
-### [reddit](https://reddit.com/users/luffyyy2007)
+### [My Discord](https://discordapp.com/users/724573679710765166)
+### [My Instagram](https://instagram.com/users/aryan.d.10)
+### [My Reddit](https://reddit.com/users/luffyyy2007)
 
 ## My GitHub stats! 💯
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryan566-wq&show_icons=true&theme=great-gatsby)
