@@ -27,4 +27,5 @@ My name is Aryan. I'm a 14 year old programming enthusiast, I started programmin
 
 ## Tools & Other:
 ![Codewars](https://www.codewars.com/users/Aryan566-wq/badges/large)
+<br>
 ![visual-studio-code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
