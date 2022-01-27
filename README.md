@@ -25,4 +25,4 @@ My Discord: [https://discordapp.com/users/724573679710765166](MonkeyDLuffy#6029)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Aryan566-wq&show_icons=true&theme=great-gatsby)
 
 ## Codewars!
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=appveyorcodewars&logoColor=grey)
+![Codewars](https://www.codewars.com/users/Aryan566-wq/badges/large)
