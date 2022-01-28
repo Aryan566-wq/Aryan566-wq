@@ -22,13 +22,13 @@ My name is Aryan. I'm a 14 year old programming enthusiast, I started programmin
 3. [My Reddit](https://reddit.com/users/luffyyy2007)
 
 ## My GitHub Stats 💯
-![github](https://github-readme-stats.vercel.app/api?username={Aryan566-wq})
+![github](https://github-readme-stats.vercel.app/api?username=Aryan566-wq)
 
 ## My Most Used Languages 💯
-![github](https://github-readme-stats.vercel.app/api/top-langs/?username={Aryan566-wq})
+![github](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan566-wq)
 
 ## Streak Stats 💯
-![github](https://github-readme-streak-stats.herokuapp.com/?user={Aryan566-wq})
+![github](https://github-readme-streak-stats.herokuapp.com/?user=Aryan566-wq)
 
 ## Tools & Other:
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
